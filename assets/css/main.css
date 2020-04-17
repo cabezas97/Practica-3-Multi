@@ -1620,6 +1620,29 @@ input, select, textarea {
 				width: auto;
 			}
 
+/* iframe */
+.videoWrapper {
+	position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+}
+
+.videoWrapper iframe {
+    border: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+iframe.video {
+	border: none;
+    width: 100%;
+    height: 100%;
+}
+
 /* Button */
 
 	input[type="button"],
@@ -2669,6 +2692,10 @@ input, select, textarea {
 
 			#content {
 				padding-bottom: 3em;
+			}
+
+			#content article img {
+				width: 100%;
 			}
 
 		/* Footer */
