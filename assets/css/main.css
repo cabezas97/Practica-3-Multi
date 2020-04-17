@@ -1950,13 +1950,11 @@ input, select, textarea {
 			vertical-align: middle;
 		}
 
-		#logo span {
-			font-weight: 800;
-			line-height: 4.5em;
-			letter-spacing: 0.025em;
-			font-size: 0.9em;
+		#logo img {
+			padding: 0.25em 0.2em 0.25em 0.2em;
+			display: inline-block;
 			vertical-align: middle;
-			margin: 0 0 0 1.25em;
+			width: 8em;
 		}
 
 /* Nav */
