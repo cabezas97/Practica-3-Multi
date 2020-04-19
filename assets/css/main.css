@@ -2711,3 +2711,18 @@ iframe.video {
 			}
 
 	}
+
+/***************************************************************\
+|						OUR PAGE CSS STYLES						|
+\***************************************************************/
+
+/* TIPS */
+div.tips h2 {
+	text-align: center;
+}
+
+div.tips a {
+	text-align: center;
+	display: block;
+	margin: 2em 0;
+}
