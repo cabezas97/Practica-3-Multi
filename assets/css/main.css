@@ -2726,3 +2726,13 @@ div.tips a {
 	display: block;
 	margin: 2em 0;
 }
+
+.center {
+	margin: 0 auto;
+	display: block;
+}
+
+.presentation-image {
+	width: 300px;
+	border-radius: 4px;
+}
