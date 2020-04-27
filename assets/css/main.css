@@ -2738,7 +2738,9 @@ div.tips a {
 }
 
 /* GALERIA */
-.galery-img {
+.img-box {
+	overflow: hidden;
+	max-height: 210px;
 	border-bottom-left-radius: 5px !important;
 	border-bottom-right-radius: 5px !important;
 }
