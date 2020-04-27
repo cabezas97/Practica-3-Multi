@@ -2736,3 +2736,9 @@ div.tips a {
 	width: 300px;
 	border-radius: 4px;
 }
+
+/* GALERIA */
+.galery-img {
+	border-bottom-left-radius: 5px !important;
+	border-bottom-right-radius: 5px !important;
+}
