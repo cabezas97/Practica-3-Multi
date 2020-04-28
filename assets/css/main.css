@@ -2733,6 +2733,7 @@ div.tips a {
 }
 
 .presentation-image {
+	height: 200px;
 	width: 300px;
 	border-radius: 4px;
 }
@@ -2743,4 +2744,16 @@ div.tips a {
 	max-height: 210px;
 	border-bottom-left-radius: 5px !important;
 	border-bottom-right-radius: 5px !important;
+}
+
+.minigal {
+	height: 100px;
+}
+
+.mainimg {
+	height: 200px;
+}
+
+.galleryimg {
+	height: 200px;
 }
